@@ -23,4 +23,15 @@ This project presents an interactive Excel dashboard analyzing pizza sales data 
 - Least Selling Pizza: Brie Carre Pizza
 
 ## File Structure
+Pizza-Sales-Analysis_Dashboard/ 
+│
+├── README.md # Project overview and documentation 
+├── Pizza_Sales_Data.xlsx # Raw sales data used for analysis
+├── Pizza_Sales_Problem_Statement.docx # Business problem statement
+├── Pizza_Sales_analysis_with_SQL.docx # SQL-based data exploration and insights
+├── Pizza_Sales_Dashboard.xlsx # Excel file with interactive dashboard 
+├── Pizza_Sales_Dashboard.PNG # Dashboard screenshot image 
+
+
+
 
