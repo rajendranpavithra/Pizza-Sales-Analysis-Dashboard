@@ -1,0 +1,17 @@
+name: Pizza Sales Dashboard
+version: 1.0
+description: Interactive Excel dashboard analyzing pizza sales data.
+
+author:
+  name: Pavithra Rajendran
+  role: Data Analyst
+  tools:
+    - SQL
+    - Excel
+    - Data Visualization
+    - Data Cleaning
+
+project_files:
+  - Pizza_Sales_Data.xlsx
+  - Pizza_Sales_Dashboard.xlsx
+  - Pizza_Sales_analysis_with_SQL.docx
