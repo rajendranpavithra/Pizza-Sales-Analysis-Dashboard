@@ -56,7 +56,7 @@ Category & Size Performance
 ## File added
 - README.md # Project overview and documentation 
 - Pizza_Sales_Data.xlsx # Raw sales data used for analysis
-- Pizza_Sales_Problem_Statement.docx # Business problem statement
+- Pizza_Sales_Analysis_Business_Questions.pdf # Business problem statement
 - Pizza_Sales_analysis_with_SQL.docx # SQL-based data exploration and insights
 - Pizza_Reports.xlsx # Individual chart reports used for analysis
 - Pizza_Sales_Dashboard.PNG # Dashboard screenshot image
