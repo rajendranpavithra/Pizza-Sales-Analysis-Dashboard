@@ -53,7 +53,7 @@ Category & Size Performance
 - **Best Pizzas**: Classic Deluxe Pizza & Barbecue Chicken Pizza  
 - **Least Selling Pizza**: Brie Carre Pizza
 
-## File added
+## Files added
 - README.md # Project overview and documentation 
 - Pizza_Sales_Data.xlsx # Raw sales data used for analysis
 - Pizza_Sales_Analysis_Business_Questions.pdf # Business problem statement
