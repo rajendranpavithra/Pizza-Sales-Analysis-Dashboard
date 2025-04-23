@@ -13,8 +13,7 @@ author:
     - Data exploration
 
 project_files:
-  - Pizza_Sales_Problem_Statement.docx
+  - Pizza_Sales_Analysis_Business_Questions.docx
   - Pizza_Sales_Data.xlsx
   - Pizza_Sales_analysis_with_SQL.docx
-  - Pizza_Sales_Dashboard.xlsx
   - Pizza_Sales_Dashboard.png
